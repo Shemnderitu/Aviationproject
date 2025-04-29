@@ -22,9 +22,9 @@ This project leverages historical accident data from the **National Transportati
 
 - **Data Cleaning & Imputation**: Handling missing and inconsistent data.
 - **Feature Engineering**: Custom severity scoring based on injury outcomes.
-- **Visualization**: Seaborn and Plotly for dynamic data exploration.
+- **Visualization**: Seaborn and Matplotlib for dynamic data exploration.
 - **Interactive Dashboard**: (Streamlit or Dash, depending on implementation)
-- **Business Communication**: Visual storytelling and clear recommendations.
+- **Business Communication**: Visual storytelling and clear recommendations using Tableau and PowerPoint.
 
 ---
 
